@@ -1,6 +1,6 @@
 # HW 1
 
-## This project was created witht he purpose to more easily navigate the code itself as well as to make sure that the webpage is built according to industry accesibility standards.
+## This project was created with the purpose to more easily navigate the code itself as well as to make sure that the webpage is built according to industry accesibility standards.
 
 ## Installation
 
